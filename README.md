@@ -2,8 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 Full-stack web developer, Web3
 * 🌍  I'm based in Eldoret, Kenya
-* 🧠  I'm learning Node.js
-* 🤝  I'm open to collaborating on Python, Django
+* 🧠  I'm learning Rust
+* 🤝  I'm open to collaborating on Python, Django,Node.js
 * ⚡  I'm secretly Spiderman ... but don't tell anyone
 
 ### Skills
